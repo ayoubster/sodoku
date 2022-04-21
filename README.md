@@ -1,2 +1,2 @@
 # sodoku
-Backtracking algorithm for sodoku on pygame, inspired by geeksforgeeks
+Backtracking algorithm for sodoku on pygame, inspired by the wavefunction collapse algorithm
